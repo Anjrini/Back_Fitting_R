@@ -6,5 +6,6 @@ The approach is based on a high number of iterations where the stop criterion is
 
 The implementation of the function is done using the R language.
 
-The function is supplied with the following two variables:
-  - Resonse
+The function is supplied with the following two variables: 
+  -
+  
