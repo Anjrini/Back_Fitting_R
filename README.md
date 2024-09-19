@@ -18,7 +18,7 @@ Please note that this method is slower than the regualr multiple regression impl
 
 Should you have any query, please contact me.
 
-Best regards
+Best regards,
 Mustafa Anjrini
 
 
