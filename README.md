@@ -12,6 +12,7 @@ The function is supplied with the following variables:
     - Data: the data frame which has to be numeric in oder for the function to deliver suitable results. Other than numerics cannot unfortunately be handeled.
 
 The result of the function is:
+
   - the estimated coefficients
   - the number of iterations needed to reach the convergence, so you can have an indication of the time and complexity of the calculations.
 
