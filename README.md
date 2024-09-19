@@ -6,7 +6,7 @@ The approach is based on a high number of iterations where the stop criterion is
 
 The implementation of the function is done using the R language.
 
-  -The function is supplied with the following two variables: 
+  The function is supplied with the following two variables: 
     - response: the response variable of the data frame in a string from between two quotation marks
     - Data: the data frame which has to be numeric in oder for the function to deliver suitable results. Other than numerics cannot unfortunately be handeled.
 
