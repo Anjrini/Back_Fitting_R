@@ -12,9 +12,9 @@ The function is supplied with the following two variables:
 
 The result of the function is:
   - the estimated coefficients
-  - the number of iterations needed to reach the convergance
+  - the number of iterations needed to reach the convergence, so you can have an indication of the time and complex of the calculations.
 
 Please note that this method is slower than the regualr multiple regression implemented in commercial softwares given the many iterations needed.
 
-The 
+
   
